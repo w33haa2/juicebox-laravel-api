@@ -63,7 +63,7 @@ This project uses **Swagger** as a documentation Tool. You can check it in http:
 
 ## 🌦️ Weather Data Integration
 
-This project integrates with **OpenWeatherMap** to fetch and store weather data for **Perth, AU**.
+This project integrates with **OpenWeatherMap** (https://openweathermap.org/api) to fetch and store weather data for **Perth, AU**.
 
 ### OpenWeatherMap API Key
 
